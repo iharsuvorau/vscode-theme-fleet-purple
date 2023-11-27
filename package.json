@@ -1,0 +1,21 @@
+{
+  "name": "fleet-purple",
+  "displayName": "Fleet Purple",
+  "description": "Fleet-like color theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fleet Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fleet Purple-color-theme.json"
+      }
+    ]
+  }
+}
