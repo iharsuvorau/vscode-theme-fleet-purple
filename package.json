@@ -3,6 +3,12 @@
   "displayName": "Fleet Purple",
   "description": "Fleet-like color theme.",
   "version": "0.1.0",
+  "publisher": "badwrong",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iharsuvorau/vscode-theme-fleet-purple"
+  },
+  
   "engines": {
     "vscode": "^1.84.0"
   },
