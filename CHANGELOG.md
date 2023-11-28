@@ -6,4 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.1.0] - 2023-10-27
 
+### Added
+
 - Initial release.
+
+## [0.1.1] - 2023-10-28
+
+### Added
+
+- JSX tag and attribute colors.
