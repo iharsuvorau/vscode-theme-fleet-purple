@@ -21,3 +21,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 
 - Debug toolbar and tree indent guides colors.
+
+## [0.1.3] - 2023-10-30
+
+### Added
+
+- Added extension icon.
