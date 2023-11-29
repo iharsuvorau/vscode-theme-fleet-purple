@@ -15,3 +15,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 
 - JSX tag and attribute colors.
+
+## [0.1.2] - 2023-10-29
+
+### Added
+
+- Debug toolbar and tree indent guides colors.
