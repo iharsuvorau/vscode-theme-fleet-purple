@@ -1,3 +1,4 @@
 node_modules
 *.vsix
 *.pxd
+.DS_Store
